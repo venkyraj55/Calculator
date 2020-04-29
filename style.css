@@ -1,0 +1,69 @@
+.container{
+    position: relative;
+    top: 50px;
+    /* height: 500px; */
+}
+input{
+    position: relative;
+    height: 40px;
+    bottom: 10px;
+    width: 75%;
+    top: 10px;
+    left: 10px;
+}
+ul{
+    position: relative;
+    /* top: 10px; */
+    /* bottom: 20px; */
+    margin: 25px 0px 25px 0px;
+    padding: 0px 0px 0px 20px;
+}
+li{
+list-style: none;
+display: inline;
+padding: 10px;
+border: 1px solid silver;
+position: relative;
+top: 10px;
+bottom: 10px;
+cursor: pointer;
+}
+.design{
+    /* border: 1px dotted rgb(25, 199, 190); */
+    border-width: 5px;
+    border-radius: 10px;
+    outline: 1px solid blueviolet;
+    outline-width: 5px;
+    height: 280px;
+}
+.li-red{
+    background-color: black;
+    font-size: 20px;
+    color: white;
+}
+.li-green{
+    background-color: black;
+    font-size: 20px;
+    color: white;
+}
+.li-yellow{
+    background-color: black;
+    font-size: 20px;
+    color: white;
+}
+.li-cream{
+    background-color: black;
+    font-size: 20px;
+    color: white;
+}
+ .eq{
+    background-color: black;
+    color: white;
+    padding-top: 67px;
+    font-size: 20px;
+    /* padding-left: 27px; */
+    text-align: justify;
+    padding-right: 18px;
+    margin-left: 8px;
+
+}
